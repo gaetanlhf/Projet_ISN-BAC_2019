@@ -1,4 +1,4 @@
-# Projet_ISN-BAC_2019
+# Mise en œuvre d'un bras manipulateur contrôlable à distance par internet 
 
 ## Introduction
 
@@ -27,14 +27,14 @@ Nous utilisons également dans ce projet un ordinateur aussi large qu’une cart
 Ce petit ordinateur utilise un système d’exploitation libre nommé Raspbian GNU/Linux (dérivé de Debian GNU/Linux) et nous sert de serveur web pour le site internet du projet mais aussi de serveur de caméra afin de gérer la caméra qui est attachée sur le bras du robot.  
 Le Raspberry Pi nous sert aussi de passerelle entre l’interface codée sous Processing et la carte Arduino du robot à l’aide d’un script en Python.  
 
-![Schéma](https://raw.githubusercontent.com/gaetanlhf/Projet_ISN-BAC_2019/main/Website/gallery/images/006.jpg)
+![Schéma](https://raw.githubusercontent.com/gaetanlhf/Projet_ISN-BAC_2019/main/Website/gallery/images/006.jpg?token=ATPXY7PVE4Q5ZWDBEQKB2EDA2IIXO)
 
 ***
 
 ## Quelques images :
-![Robot](https://raw.githubusercontent.com/gaetanlhf/Projet_ISN-BAC_2019/main/Website/gallery/images/001.jpg)
+![Robot](https://raw.githubusercontent.com/gaetanlhf/Projet_ISN-BAC_2019/main/Website/gallery/images/001.jpg?token=ATPXY7PPJKDXZRFOA4OLFOLA2IIZA)
 
-![Interface](https://raw.githubusercontent.com/gaetanlhf/Projet_ISN-BAC_2019/main/Website/gallery/images/004.jpg)
+![Interface](https://raw.githubusercontent.com/gaetanlhf/Projet_ISN-BAC_2019/main/Website/gallery/images/004.jpg?token=ATPXY7K423BTG2U5D6V7VTTA2II2E)
 
 ***
 
