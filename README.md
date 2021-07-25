@@ -10,8 +10,6 @@ Le cahier des charges de ce projet comprend les éléments suivants :
 - un système de contrôle à distance par internet avec un retour d’image par webcam et
 - la réalisation d’un site de présentation du travail réalisé.
 
-***
-
 ## Présentation du projet
 
 Le robot que nous utilisons pour ce projet est un bras robotisé de chez Lynxmotion utilisant une carte de contrôle BotBoarduino qui est en réalité une carte Arduino Duemilanove adaptée à la robotique.  
@@ -29,14 +27,10 @@ Le Raspberry Pi nous sert aussi de passerelle entre l’interface codée sous Pr
 
 ![Schéma](https://raw.githubusercontent.com/gaetanlhf/Projet_ISN-BAC_2019/main/Website/gallery/images/006.jpg?token=ATPXY7PVE4Q5ZWDBEQKB2EDA2IIXO)
 
-***
-
 ## Quelques images :
 ![Robot](https://raw.githubusercontent.com/gaetanlhf/Projet_ISN-BAC_2019/main/Website/gallery/images/001.jpg?token=ATPXY7PPJKDXZRFOA4OLFOLA2IIZA)
 
 ![Interface](https://raw.githubusercontent.com/gaetanlhf/Projet_ISN-BAC_2019/main/Website/gallery/images/004.jpg?token=ATPXY7K423BTG2U5D6V7VTTA2II2E)
-
-***
 
 ## Crédits
 Réalisé par Jonathan BRUNEAU et Gaëtan LE HEURT-FINOT.
